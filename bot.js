@@ -1,7 +1,7 @@
 const mineflayer = require('mineflayer')
 
 const HOST = 'TheDragonSMPS.play.hosting'
-const PORT = 25565 // ⚠️ поменяй на реальный порт из панели play.hosting (Primary), если не 25565
+const PORT = 16037 // ⚠️ поменяй на реальный порт из панели play.hosting (Primary), если не 25565
 const VERSION = '1.21.11' // пробуем через ViaVersion/ViaBackwards, если сервер их поддерживает
 
 function log(msg) {
